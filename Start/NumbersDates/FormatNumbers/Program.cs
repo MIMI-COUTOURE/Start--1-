@@ -21,8 +21,8 @@ Console.WriteLine($"{val2:E}, {val2:N}, {val2:F}, {val2:G}");
 Console.WriteLine($"{val1:D6}, {val1:N2}, {val1:F1}, {val1:G3}");
 
 // TODO: Formatting with alignment and spacing
-// Console.WriteLine("Sales by Quarter:");
-// Console.WriteLine($"{quarters[0]} {quarters[1]} {quarters[2]} {quarters[3]}");
-// Console.WriteLine($"{sales[0]} {sales[1]} {sales[2]} {sales[3]}");
-// Console.WriteLine("International Sales:");
-// Console.WriteLine($"{intlMixPct[0]} {intlMixPct[1]} {intlMixPct[2]} {intlMixPct[3]}");
+Console.WriteLine("Sales by Quarter:");
+Console.WriteLine($"{quarters[0]} {quarters[1]} {quarters[2]} {quarters[3]}");
+Console.WriteLine($"{sales[0]} {sales[1]} {sales[2]} {sales[3]}");
+Console.WriteLine("International Sales:");
+Console.WriteLine($"{intlMixPct[0]} {intlMixPct[1]} {intlMixPct[2]} {intlMixPct[3]}");
