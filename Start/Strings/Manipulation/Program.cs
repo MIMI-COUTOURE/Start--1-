@@ -29,7 +29,7 @@ Console.WriteLine(outstr);
 // TODO: Joining strings together with Join
 outstr = String.Join('-', strs);
 Console.WriteLine(outstr);
-outstr = String.Join("---", strs);
+outstr = String.Join("---", strs); 
 Console.WriteLine(outstr);
 
 // TODO: String Comparison

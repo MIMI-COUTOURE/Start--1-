@@ -1,0 +1,5 @@
+C:\Users\USER\Downloads\Start (1)\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Start (1)\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Start (1)\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Start (1)\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.AssemblyInfo.cs
+C:\Users\USER\Downloads\Start (1)\Start\NumbersDates\DateTimeClass\obj\Debug\net6.0\DateTimeClass.csproj.CoreCompileInputs.cache
