@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tl/ZlkEj/bxA14YE83T3hKRf2CHEwbjOpvE8Tw1VLKHOiPoampgJR51jaJHU0yehaFveNm2X7RmSuv6+FBcYKg==",
+  "dgSpecHash": "tUJ8TNow+IQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Downloads\\Start (1)\\Start\\Strings\\Manipulation\\Manipulation.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }

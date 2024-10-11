@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mNhd0BY7JLMcgQyqHo1fUc2SGwZLH9VbVTqDnTVH02JWDChT8jjOzxjyZydAugvnJlKX5R6X4sA1vBmvQTNl6Q==",
+  "dgSpecHash": "YYgp6aYYAT0=",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Downloads\\Start (1)\\Start\\Strings\\Interpolation\\Interpolation.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }

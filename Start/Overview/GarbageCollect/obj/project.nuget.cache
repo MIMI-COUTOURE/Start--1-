@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aGvtx9zmJB+A9FEWEeIyBwuVtbFPbL7OVszmkssqkwAJaZmtWsNHYIz8TVsS2s4b+3eXlI22/ahtE0wAM1DDog==",
+  "dgSpecHash": "LryeJ92Di9c=",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Downloads\\Start (1)\\Start\\Overview\\GarbageCollect\\GarbageCollect.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }
