@@ -1,1 +1,41 @@
-Use this folder to implement your solution to the challenge
+while (true)
+        {
+            // Prompt user to enter a date or exit
+            Console.WriteLine("Enter a date (YYYY-MM-DD) or type 'exit' to quit:");
+            string userInput = Console.ReadLine();
+            
+            // Exit the program if the user types 'exit'
+            if (userInput.ToLower() == "exit")
+            {
+                Console.WriteLine("Goodbye!");
+                break;
+            }
+            
+            // Try to parse the date input
+            if (DateTime.TryParse(userInput, out DateTime targetDate))
+            {
+                DateTime currentDate = DateTime.Now;
+                
+                // Calculate the difference between the entered date and the current date
+                TimeSpan difference = targetDate - currentDate;
+                
+                if (difference.Days > 0)
+                {
+                    Console.WriteLine($"{difference.Days} days remain until {targetDate.ToString("yyyy-MM-dd")}.");
+                }
+                else if (difference.Days < 0)
+                {
+                    Console.WriteLine($"{Math.Abs(difference.Days)} days have passed since {targetDate.ToString("yyyy-MM-dd")}.");
+                }
+                else
+                {
+                    Console.WriteLine("Today is the date!");
+                }
+            }
+            else
+            {
+                // Handle invalid date input
+                Console.WriteLine("Invalid date format. Please enter the date in YYYY-MM-DD format.");
+            }
+        }
+    
