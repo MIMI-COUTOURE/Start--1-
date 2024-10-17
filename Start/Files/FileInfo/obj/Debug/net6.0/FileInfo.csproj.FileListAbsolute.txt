@@ -3,7 +3,6 @@ C:\Users\USER\Downloads\Start (1)\Start\Files\FileInfo\bin\Debug\net6.0\FileInfo
 C:\Users\USER\Downloads\Start (1)\Start\Files\FileInfo\bin\Debug\net6.0\FileInfo.runtimeconfig.json
 C:\Users\USER\Downloads\Start (1)\Start\Files\FileInfo\bin\Debug\net6.0\FileInfo.dll
 C:\Users\USER\Downloads\Start (1)\Start\Files\FileInfo\bin\Debug\net6.0\FileInfo.pdb
-C:\Users\USER\Downloads\Start (1)\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.csproj.AssemblyReference.cache
 C:\Users\USER\Downloads\Start (1)\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USER\Downloads\Start (1)\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.AssemblyInfoInputs.cache
 C:\Users\USER\Downloads\Start (1)\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\USER\Downloads\Start (1)\Start\Files\FileInfo\obj\Debug\net6.0\refint\F
 C:\Users\USER\Downloads\Start (1)\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.pdb
 C:\Users\USER\Downloads\Start (1)\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.genruntimeconfig.cache
 C:\Users\USER\Downloads\Start (1)\Start\Files\FileInfo\obj\Debug\net6.0\ref\FileInfo.dll
+C:\Users\USER\Downloads\Start (1)\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.sourcelink.json

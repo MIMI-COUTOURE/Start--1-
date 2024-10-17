@@ -3,7 +3,6 @@ C:\Users\USER\Downloads\Start (1)\Start\Files\ReadWriteFiles\bin\Debug\net6.0\Re
 C:\Users\USER\Downloads\Start (1)\Start\Files\ReadWriteFiles\bin\Debug\net6.0\ReadWriteFiles.runtimeconfig.json
 C:\Users\USER\Downloads\Start (1)\Start\Files\ReadWriteFiles\bin\Debug\net6.0\ReadWriteFiles.dll
 C:\Users\USER\Downloads\Start (1)\Start\Files\ReadWriteFiles\bin\Debug\net6.0\ReadWriteFiles.pdb
-C:\Users\USER\Downloads\Start (1)\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.csproj.AssemblyReference.cache
 C:\Users\USER\Downloads\Start (1)\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USER\Downloads\Start (1)\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.AssemblyInfoInputs.cache
 C:\Users\USER\Downloads\Start (1)\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\USER\Downloads\Start (1)\Start\Files\ReadWriteFiles\obj\Debug\net6.0\re
 C:\Users\USER\Downloads\Start (1)\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.pdb
 C:\Users\USER\Downloads\Start (1)\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.genruntimeconfig.cache
 C:\Users\USER\Downloads\Start (1)\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ref\ReadWriteFiles.dll
+C:\Users\USER\Downloads\Start (1)\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.sourcelink.json

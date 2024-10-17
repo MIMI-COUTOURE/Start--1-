@@ -3,7 +3,6 @@ C:\Users\USER\Downloads\Start (1)\Start\Regex\Replacing\bin\Debug\net6.0\Replaci
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.runtimeconfig.json
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.dll
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.pdb
-C:\Users\USER\Downloads\Start (1)\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.csproj.AssemblyReference.cache
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfoInputs.cache
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\USER\Downloads\Start (1)\Start\Regex\Replacing\obj\Debug\net6.0\refint\
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.pdb
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.genruntimeconfig.cache
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Replacing\obj\Debug\net6.0\ref\Replacing.dll
+C:\Users\USER\Downloads\Start (1)\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.sourcelink.json

@@ -3,7 +3,6 @@ C:\Users\USER\Downloads\Start (1)\Start\Regex\Timeouts\bin\Debug\net6.0\RegexTim
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.runtimeconfig.json
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.dll
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Timeouts\bin\Debug\net6.0\RegexTimeouts.pdb
-C:\Users\USER\Downloads\Start (1)\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.csproj.AssemblyReference.cache
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.AssemblyInfoInputs.cache
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\USER\Downloads\Start (1)\Start\Regex\Timeouts\obj\Debug\net6.0\refint\R
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.pdb
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.genruntimeconfig.cache
 C:\Users\USER\Downloads\Start (1)\Start\Regex\Timeouts\obj\Debug\net6.0\ref\RegexTimeouts.dll
+C:\Users\USER\Downloads\Start (1)\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.sourcelink.json
